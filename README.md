@@ -1,1 +1,1 @@
-# course_work
+# Segmentation of medical images
